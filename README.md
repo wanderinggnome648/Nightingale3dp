@@ -20,10 +20,10 @@ A PC-fan based air purifier design, the Nightingale's major features are:
 Released on Nov 24, 2025. 
 
 ## 3D Printed Components
-Print all the items in the Nightingale_3d_7percent.3mf file with 2 Wall Loops, 7% Gyroid fill (to save on filament)
-Print all the items in the Nightingale_3d_30percent.3mf file with 2 Wall Loops, 30% Gyroid fill (for additional strength)
-You should be able to print all components with less then 3 rolls of filament. 
-You need cable ties for the wiring and you can print some. 
+- Print all the items in the Nightingale_3d_7percent.3mf file with 2 Wall Loops, 7% Gyroid fill (to save on filament)
+- Print all the items in the Nightingale_3d_30percent.3mf file with 2 Wall Loops, 30% Gyroid fill (for additional strength)
+- You should be able to print all components with less then 3 rolls of filament. 
+- You need cable ties for the wiring and those can also be printed. 
 
 ## Parts to Buy
 | Quantity | Item | Description | Cost | Link  |
@@ -44,13 +44,20 @@ Note: 20x20 furnace filters are NOT 20" long. They are always a little smaller. 
 - Utility knife - Cutting zip ties, opening packages
 - Cable ties - Organizing the wiring
 
-
 # Assembly
-1. Coming 
+[AssemblyVideo](https://youtu.be/DHxAwtPqRJc)
 
-![SquareAssembly](images/GrayMan.jpg)
+## Parts 
+- Main body parts: M1, M2A, M2B, M3, M4, M5, M6, M7, M8
+- Lid parts: L1, L2, L3
+- Lots of: Pyramidal pins
+- 48x Fan-through-rods
+- 25x Dual rod connector
+- 4x Single rod cover 
+- 6x 2-Up fan grills
 
-
+## Steps 
+(Coming)
 
 ## FAQs
 
@@ -60,7 +67,7 @@ Note: 20x20 furnace filters are NOT 20" long. They are always a little smaller. 
 
 ### Q: What's the ideal environment for this design?
 
-- A: I designed this as the purifier I would want in my kid's classroom. I don't want teachers to worry about turning it off/on or changing the speed settings. Finally, I wanted it to be durable, easy to fix if a component breaks, and easy to replace the filters. 
+- A: I designed this as the purifier I would want in my kid's classroom. It can't be loud. And I don't want teachers to worry about turning it off/on or changing the speed settings. Finally, I wanted it to be durable, easy to fix if a component breaks, and easy to replace the filters. 
 
 ### Q: Why is it named 'The Nightingale'? 
 
